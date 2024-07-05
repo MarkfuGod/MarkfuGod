@@ -1,5 +1,5 @@
 <a href="https://github.com/MarkfuGod?tab=repositories">
-  <img height=200 width=300 align="center" src="https://github-readme-stats.vercel.app/api?username=MarkfuGod&theme=material-palenight&rank_icon=github" />
+  <img height=200 width=450 align="center" src="https://github-readme-stats.vercel.app/api?username=MarkfuGod&theme=material-palenight&rank_icon=github" />
 </a>
 <a href="https://github.com/MarkfuGod?tab=repositories">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarkfuGod&layout=compact&langs_count=8&card_width=320&theme=material-palenight" />
