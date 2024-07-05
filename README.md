@@ -9,12 +9,12 @@
 
 [//]: # (<a href="https://github.com/MarkfuGod/Hand-Recovery-And-Fatigue-Relief-Using-Mediapipe">)
 
-[//]: # (  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkfuGod&repo=FiltPick&theme=kacho_ga" />)
+[//]: # (  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkfuGod&repo=Hand-Recovery-And-Fatigue-Relief-Using-Mediapipe&theme=kacho_ga" />)
 
 [//]: # (</a>)
 
 [//]: # (<a href="https://github.com/MarkfuGod/Commissaire">)
 
-[//]: # (  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkfuGod&repo=BlockTuner-forge&theme=kacho_ga" />)
+[//]: # (  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarkfuGod&repo=Commissaire&theme=kacho_ga" />)
 
 [//]: # (</a>)
