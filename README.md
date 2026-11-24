@@ -4,7 +4,7 @@
 
 **HKU MSc Computer Science** · Hong Kong · building backend systems and AI agents that behave predictably in production
 
-[**CV & profile**](https://markfugod.github.io/MarkfuGod-CV/) · [Resume (EN)](https://markfugod.github.io/MarkfuGod-CV/index_en_industrial.html) · [简历 (中文)](https://markfugod.github.io/MarkfuGod-CV/index_zh_industrial.html) · [Email](mailto:MarkfuGod@outlook.com) · [LinkedIn](https://linkedin.com/in/markfugod)
+[Email](mailto:MarkfuGod@outlook.com) · [LinkedIn](https://www.linkedin.com/in/gaiyifan)
 
 </div>
 
