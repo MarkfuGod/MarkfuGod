@@ -4,7 +4,7 @@
 
 **HKU MSc Computer Science** · Hong Kong · building backend systems and AI agents that behave predictably in production
 
-[Email](mailto:MarkfuGod@outlook.com) · [LinkedIn](https://www.linkedin.com/in/gaiyifan)
+[Email](mailto:MarkfuGod@outlook.com) · [LinkedIn](https://www.linkedin.com/in/gai-yifan/)
 
 </div>
 
